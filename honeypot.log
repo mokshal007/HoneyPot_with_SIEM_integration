@@ -1,0 +1,21 @@
+2024-05-17 12:11:51,920 - INFO - Listening for incoming connections on port 2222
+2024-05-17 15:37:45,474 - INFO - Listening for incoming connections on port 2222
+2024-05-17 15:37:45,475 - INFO - Listening for incoming connections on port 8080
+2024-05-17 15:37:45,475 - INFO - Listening for incoming connections on port 2121
+2024-05-17 15:42:30,137 - INFO - HTTP connection from ('127.0.0.1', 1930)
+2024-05-17 15:42:30,978 - INFO - Successfully sent alert to Discord
+2024-05-17 15:42:30,983 - INFO - HTTP request: GET / HTTP/1.1
+Host: localhost:8080
+User-Agent: curl/8.4.0
+Accept: */*
+
+
+2024-05-17 15:42:31,483 - INFO - Successfully sent alert to Discord
+2024-05-17 15:45:21,339 - INFO - SSH connection from ('127.0.0.1', 2020)
+2024-05-17 15:45:21,890 - INFO - Successfully sent alert to Discord
+2024-05-17 15:45:21,894 - INFO - SSH login attempt with username: SSH-2.0-OpenSSH_for_Windows_8.1
+2024-05-17 15:45:22,491 - INFO - Successfully sent alert to Discord
+2024-05-17 15:46:30,127 - ERROR - Error handling SSH connection: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-05-17 16:56:21,113 - INFO - Listening for incoming connections on port 2222
+2024-05-17 16:56:21,113 - INFO - Listening for incoming connections on port 8080
+2024-05-17 16:56:21,113 - INFO - Listening for incoming connections on port 2121
