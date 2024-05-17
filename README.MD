@@ -1,6 +1,6 @@
 # HoneyPot_with_SIEM-integration
 
-This project is a honeypot implementation in Python designed to attract and monitor potential attackers. It includes integrated geolocation tracking and integration with Splunk for centralized log management and analysis.
+This project is a honeypot implementation in Python designed to attract and monitor potential attackers. It includes integrated geolocation tracking, provides time stamps of every event and integration with Splunk for centralized log management and analysis.
 
 ## Overview
 
