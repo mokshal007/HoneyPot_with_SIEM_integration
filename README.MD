@@ -24,4 +24,4 @@ A honeypot is a security mechanism set up to detect, deflect, or counteract atte
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/HoneyPot_with_SIEM-integration.git
+   git clone https://github.com/mokshal007/HoneyPot_with_SIEM-integration.git
